@@ -2,9 +2,9 @@
 
 My name is Pierre Mesure, I am a French 🇫🇷 engineer based in Sweden 🇸🇪 since 2017. I work with many things, most of which have in common to try and improve our democracy ✊🏼. On my Github profile, I try to publish all the code that I produce. 😊
 
-Today, I mainly work with citizen participation as a co-owner of the democracy lab [Digidem Lab](https://digidemlab.org) 🙋🏽‍♀️. You can find all our code here on [Github](https://github.com/digidemlab).
+I'm currently leading a datalab at an agency under the Swedish ministry of finance 💰. Unfortunately, Swedish public sector is not a leader in publishing data nor open source code so I don't have so much to share here (yet! 🙋🏻‍♂️) but you can find our projects (in Swedish) at [datalabb.esv.se](https://datalabb.esv.se).
 
-I also work on a number of projects to create more transparency and accountability through open data ♻️ in Sweden. These projects are either under my profile or at one of the organisations I'm a member of ([Civic Tech Sweden](https://github.com/civictechsweden), [Open Knowledge Sweden](https://github.com/okfse)).
+I also work on a number of projects to create more transparency and accountability through open data ♻️ in Sweden. These projects are either under my profile or at one of the organisations I'm a member of ([Civic Tech Sweden](https://github.com/civictechsweden), [Open Knowledge Sweden](https://github.com/okfse)). Between 2018 and 2023, I mainly worked with citizen participation as a co-owner of the democracy lab [Digidem Lab](https://digidemlab.org) 🙋🏽‍♀️. All the code I wrote there can be found here on [Digidem Lab's Github page](https://github.com/digidemlab). I was also an active contributor to projects such as [Decidim](https://github.com/decidim) and [Consul](https://github.com/consuldemocracy).
 
 ## Some open source projects I started:
 
@@ -51,7 +51,7 @@ Relevant repos:
 
 ### Other projects
 
-- [Almedalsdata](https://github.com/civictechsweden/almedalsdata), Almedalsveckans program as open data ([blog post](https://medium.com/civictechsweden/almedalsdata-diving-into-the-data-of-the-worlds-biggest-political-festival-267eb6865860))
+- [Almedalsdata](https://github.com/civictechsweden/almedalsdata), Almedalsveckan's program as open data ([blog post](https://medium.com/civictechsweden/almedalsdata-diving-into-the-data-of-the-worlds-biggest-political-festival-267eb6865860))
 - [Öppna Luftfartygsregistret](https://github.com/civictechsweden/oppna-luftfartygsregistret), the Swedish aircraft register as open data
 - [Öppna MPRT-tillståndsregistret](https://github.com/civictechsweden/mprt-tillstandsregister), the Swedish TV, radio, press agency's license register as open data
 - [Öppna återvinningsdata](https://github.com/civictechsweden/oppna-atervinningsdata), Swedish recycling stations as open data

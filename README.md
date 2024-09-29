@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Pierre Mesure, I am a French 🇫🇷 engineer based in Sweden 🇸🇪 since 2017. I work with many things, most of which have in common to try and improve our democracy ✊🏼. On my Github profile, I try to publish all the code that I produce. 😊
+My name is Pierre Mesure, I am a French-Swedish 🇫🇷 engineer based in Stockholm 🇸🇪 since 2017. I work with many things, most of which have in common to try and improve our democracy ✊🏼. On my Github profile, I try to publish all the code that I produce. 😊
 
 I'm currently leading a datalab at an agency under the Swedish ministry of finance 💰. Unfortunately, Swedish public sector is not a leader in publishing data nor open source code so I don't have so much to share here (yet! 🙋🏻‍♂️) but you can find our projects (in Swedish) at [datalabb.esv.se](https://datalabb.esv.se).
 
